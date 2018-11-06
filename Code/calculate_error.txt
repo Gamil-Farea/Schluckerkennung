@@ -1,0 +1,45 @@
+double PiecewiseSlopeEstimation::calculate_error(m_rawData, m_minLineLengthInSeconds, m_maxLineLengthInSeconds, m_maxValueDiff)
+{
+	double error = 0.0;
+
+	if (m_rawData.size() == 0)
+		return error;
+
+	double eps = 1e-10;
+	size_t N = m_rawData.size();
+
+	if (m_maxLineLengthInSeconds > 0 && ( double(m_rawData.size() * m_sampleTime) > m_maxLineLengthInSeconds))
+	{
+		return m_maxError + eps;
+	}
+	if (m_minLineLengthInSeconds > 0 && ( double(m_rawData.size() * m_sampleTime) < m_minLineLengthInSeconds))
+	{
+		return eps;
+	}
+
+
+	double a = m_rawData.first();
+	double b = m_rawData.last();
+	double h = (b - a) / static_cast<double>(N - 1);
+
+
+	if (m_maxValueDiff > 0 && abs(a - b) > m_maxValueDiff)
+	{
+		return m_maxError + eps;
+	}
+
+	if (N - 1 == 0) {
+		return error;
+	}
+		
+
+	double val = a;
+	for (unsigned int j = 0; j < N; j++)
+	{
+		double diff = m_rawData[j] - val;
+		val += h;
+		error += diff * diff;
+	}
+
+	return error;
+}

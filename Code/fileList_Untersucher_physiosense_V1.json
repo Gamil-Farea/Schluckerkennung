@@ -1,0 +1,1204 @@
+[
+    {
+        "annotation": [
+            11, 
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\184\\184-1-Vergleich Untersucher1_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            4.12, 
+            5.72, 
+            10.78, 
+            17.78
+        ], 
+        "stop": [
+            5.488, 
+            6.94, 
+            11.92, 
+            19.080000000000002
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11, 
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1, 
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\184\\184-2-Vergleich Untersucher1_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true, 
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            4.992, 
+            6.472, 
+            11.28, 
+            12.68, 
+            17.56, 
+            19.14
+        ], 
+        "stop": [
+            6.38, 
+            7.5, 
+            12.620000000000001, 
+            14.18, 
+            19.0, 
+            20.48
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\184\\184-3-Vergleich Untersucher2_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            4.344, 
+            9.312, 
+            10.732000000000001, 
+            15.432, 
+            17.212
+        ], 
+        "stop": [
+            5.884, 
+            10.624, 
+            11.944, 
+            16.952, 
+            18.432000000000002
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\184\\184-4-Vergleich Untersucher3_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            3.8000000000000003, 
+            9.36, 
+            16.12, 
+            21.688
+        ], 
+        "stop": [
+            5.5280000000000005, 
+            11.288, 
+            17.86, 
+            23.56
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11, 
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1, 
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\185\\185-1-Vergleich Untersucher1_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true, 
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            3.028, 
+            4.58, 
+            7.6000000000000005, 
+            11.52, 
+            16.208000000000002, 
+            17.92
+        ], 
+        "stop": [
+            4.432, 
+            6.140000000000001, 
+            9.1, 
+            13.18, 
+            17.792, 
+            18.988
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11, 
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1, 
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\185\\185-2-Vergleich Untersucher2_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true, 
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            3.3000000000000003, 
+            4.5120000000000005, 
+            7.32, 
+            10.712, 
+            14.280000000000001, 
+            18.592
+        ], 
+        "stop": [
+            4.448, 
+            5.672, 
+            9.0, 
+            12.26, 
+            15.808, 
+            20.088
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\185\\185-3-Vergleich Untersucher3_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            4.26, 
+            8.8, 
+            14.272, 
+            18.888
+        ], 
+        "stop": [
+            5.86, 
+            10.120000000000001, 
+            15.368, 
+            20.400000000000002
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\185\\185-4-Vergleich Untersucher4_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            3.7920000000000003, 
+            8.0, 
+            12.14, 
+            16.98
+        ], 
+        "stop": [
+            5.368, 
+            9.928, 
+            14.0, 
+            18.752
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\186\\186-1-Vergleich Untersucher1_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            3.472, 
+            9.72, 
+            15.728
+        ], 
+        "stop": [
+            4.82, 
+            10.9, 
+            17.248
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\186\\186-3-Vergleich Untersucher2_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            6.672, 
+            12.14, 
+            17.648
+        ], 
+        "stop": [
+            8.16, 
+            13.66, 
+            19.512
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\186\\186-4-Vergleich Untersucher3_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            5.5680000000000005, 
+            9.048, 
+            13.192
+        ], 
+        "stop": [
+            6.82, 
+            10.628, 
+            14.428
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\186\\186-5-Vergleich Untersucher4_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            9.072000000000001, 
+            13.700000000000001, 
+            18.46
+        ], 
+        "stop": [
+            10.82, 
+            14.56, 
+            19.872
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\187\\187-3-Vergleich Untersucher2_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            0.86, 
+            6.3, 
+            11.648, 
+            17.48
+        ], 
+        "stop": [
+            2.54, 
+            7.74, 
+            13.38, 
+            18.888
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\187\\187-4-Vergleich Untersucher3_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            5.912, 
+            10.02, 
+            13.74
+        ], 
+        "stop": [
+            7.588, 
+            11.46, 
+            15.0
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\187\\187-5-Vergleich Untersucher4_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            2.8080000000000003, 
+            7.0, 
+            10.788
+        ], 
+        "stop": [
+            4.792, 
+            8.848, 
+            12.552
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\187\\187-6-Vergleich Untersucher1_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            7.24, 
+            15.14, 
+            22.828
+        ], 
+        "stop": [
+            8.28, 
+            16.208000000000002, 
+            24.1
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\187\\187-7-Vergleich Untersucher2_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            5.072, 
+            13.312000000000001, 
+            20.952
+        ], 
+        "stop": [
+            6.192, 
+            14.648, 
+            22.0
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\187\\187-8-Vergleich Untersucher3_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            6.42, 
+            13.040000000000001, 
+            18.552
+        ], 
+        "stop": [
+            7.672000000000001, 
+            14.16, 
+            19.42
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\187\\187-9-Vergleich Untersucher4_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            6.048, 
+            17.872, 
+            30.248
+        ], 
+        "stop": [
+            6.92, 
+            18.72, 
+            31.248
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\189\\189-1-Vergleich Untersucher1_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            3.44, 
+            6.328, 
+            8.96
+        ], 
+        "stop": [
+            5.148, 
+            7.648000000000001, 
+            10.688
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\189\\189-2-Vergleich Untersucher2_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            3.952, 
+            6.86, 
+            9.168000000000001
+        ], 
+        "stop": [
+            5.54, 
+            8.26, 
+            10.94
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\189\\189-3-Vergleich Untersucher3_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            3.2720000000000002, 
+            5.5, 
+            8.568, 
+            13.552
+        ], 
+        "stop": [
+            4.5, 
+            6.448, 
+            10.928, 
+            14.728
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\189\\189-4-Vergleich Untersucher4_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            4.0, 
+            6.432, 
+            9.788
+        ], 
+        "stop": [
+            5.288, 
+            7.58, 
+            11.072000000000001
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\190\\190-1-Vergleich Untersucher1_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            3.352, 
+            6.912, 
+            10.768, 
+            16.808, 
+            22.18
+        ], 
+        "stop": [
+            5.848, 
+            8.6, 
+            12.46, 
+            18.48, 
+            23.672
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\190\\190-2-Vergleich Untersucher2_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            3.96, 
+            7.7, 
+            12.232000000000001
+        ], 
+        "stop": [
+            6.348, 
+            10.472, 
+            14.56
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\190\\190-3-Vergleich Untersucher3_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            2.648, 
+            5.912, 
+            9.712
+        ], 
+        "stop": [
+            4.752, 
+            8.432, 
+            12.008000000000001
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\190\\190-4-Vergleich Untersucher4_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            4.38, 
+            8.28, 
+            12.208
+        ], 
+        "stop": [
+            6.808, 
+            10.712, 
+            14.68
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\191\\191-1-Vergleich Untersucher1_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            5.32, 
+            9.272, 
+            14.02
+        ], 
+        "stop": [
+            8.02, 
+            11.868, 
+            16.032
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\191\\191-2-Vergleich Untersucher2_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            3.168, 
+            8.248, 
+            12.64
+        ], 
+        "stop": [
+            5.488, 
+            10.18, 
+            14.808
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\191\\191-3-Vergleich Untersucher3_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            7.664000000000001, 
+            13.464, 
+            18.856
+        ], 
+        "stop": [
+            10.356, 
+            15.924, 
+            21.016000000000002
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\191\\191-4-Vergleich Untersucher4_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            5.16, 
+            9.52, 
+            13.72
+        ], 
+        "stop": [
+            7.672000000000001, 
+            12.06, 
+            16.308
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\192\\192-1-Vergleich Untersucher1_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            2.92, 
+            9.568, 
+            18.648, 
+            23.72
+        ], 
+        "stop": [
+            3.66, 
+            11.26, 
+            20.32, 
+            25.648
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\192\\192-2-Vergleich Untersucher2_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            6.66, 
+            12.948, 
+            21.56
+        ], 
+        "stop": [
+            8.368, 
+            14.992, 
+            23.7
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\192\\192-3-Vergleich Untersucher3_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            5.992, 
+            12.992, 
+            20.408
+        ], 
+        "stop": [
+            8.2, 
+            15.288, 
+            22.56
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\192\\192-4-Vergleich Untersucher4_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            7.832, 
+            14.392, 
+            22.472
+        ], 
+        "stop": [
+            10.540000000000001, 
+            17.06, 
+            24.672
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\193\\193-1-Vergleich Untersucher1_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            4.18, 
+            48.92, 
+            59.568, 
+            66.708
+        ], 
+        "stop": [
+            5.6080000000000005, 
+            50.968, 
+            62.34, 
+            69.24
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\193\\193-2-Vergleich Untersucher2_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            18.6, 
+            18.6, 
+            23.3, 
+            28.1
+        ], 
+        "stop": [
+            20.6, 
+            21.712, 
+            26.272000000000002, 
+            30.28
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\193\\193-3-Vergleich Untersucher3_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            12.112, 
+            17.38, 
+            21.768
+        ], 
+        "stop": [
+            14.168000000000001, 
+            19.240000000000002, 
+            24.328
+        ]
+    }, 
+    {
+        "annotation": [
+            11, 
+            11, 
+            11
+        ], 
+        "consistency": [
+            1, 
+            1, 
+            1
+        ], 
+        "filename": "Y:\\01_Rohdaten\\193\\193-4-Vergleich Untersucher4_edited.bdf", 
+        "isSwallow": [
+            true, 
+            true, 
+            true
+        ], 
+        "start": [
+            23.14, 
+            27.52, 
+            33.368
+        ], 
+        "stop": [
+            25.728, 
+            30.148, 
+            35.7
+        ]
+    }
+]
