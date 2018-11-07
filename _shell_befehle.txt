@@ -1,0 +1,16 @@
+
+Gehe in Pfad, wo repository erstellt werden soll:
+cd Documents/Biomedizinische\ Technik\ M.Sc./Semester\ 5/Projektpraktikum\ Automatisierungstechnik/git
+
+% -----------------------------------------------------------%
+initial Repository auschecken:
+git clone https://github.com/Gamil-Farea/Schluckerkennung.git
+% -----------------------------------------------------------%
+
+Dateien hinzufügen:
+git add <datei>
+git commit -m "Commit-Nachricht"
+git push
+
+Ordner auf neuesten Stand bringen:
+git pull 
