@@ -17,7 +17,12 @@ for i in np.arange(n):
 BI = sigbufs[0] 
 EMG = sigbufs[1] 
 annotations = f.readAnnotations()  
-sample_frequency= 4000  
+
+file_duaration = f.getFileDuration()
+smaples_number =f.getNSamples()[0]
+sample_frequency = smaples_number/file_duaration
+
+
 
 def segment(t_after,t_before,sample_frequency,annotations,BI,EMG):
     
