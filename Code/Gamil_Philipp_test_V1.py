@@ -7,7 +7,8 @@ Created on Thu Oct 25 13:56:35 2018
 import pyedflib
 import numpy as np
 import matplotlib as plt
-f = pyedflib.EdfReader("C:/Users/phili/Desktop/Schluckerkennung/10/10-6-Schlucktest_Mengen_edited_triggerMarker_edited.bdf")
+#f = pyedflib.EdfReader("C:/Users/phili/Desktop/Schluckerkennung/10/10-6-Schlucktest_Mengen_edited_triggerMarker_edited.bdf")
+f = pyedflib.EdfReader("/Users/enwelt/Documents/Biomedizinische Technik M.Sc./Semester 5/Projektpraktikum Automatisierungstechnik/Daten/10/10-6-Schlucktest_Mengen_edited_triggerMarker_edited.bdf")
 n = f.signals_in_file
 signal_labels = f.getSignalLabels()
 sigbufs = np.zeros((n, f.getNSamples()[0]))
@@ -18,11 +19,7 @@ BI = sigbufs[0]
 EMG = sigbufs[1] 
 annotations = f.readAnnotations()  
 
-file_duaration = f.getFileDuration()
-smaples_number =f.getNSamples()[0]
-sample_frequency = smaples_number/file_duaration
-
-
+sample_frequency = int(f.getSampleFrequency(1))
 
 def segment(t_after,t_before,sample_frequency,annotations,BI,EMG):
     
