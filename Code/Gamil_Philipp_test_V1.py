@@ -2,12 +2,12 @@
 """
 Created on Thu Oct 25 13:56:35 2018
 
-@author: galaz Philipp
+@author: galaz
 """
 import pyedflib
 import numpy as np
 import matplotlib as plt
-f = pyedflib.EdfReader("F:/SchluckDaten/01_Rohdaten/21/21-1-Schlucktest_Leitfaehigkeit_edited_triggerMarker.bdf")
+f = pyedflib.EdfReader("C:/Users/phili/Desktop/Schluckerkennung/10/10-6-Schlucktest_Mengen_edited_triggerMarker_edited.bdf")
 n = f.signals_in_file
 signal_labels = f.getSignalLabels()
 sigbufs = np.zeros((n, f.getNSamples()[0]))
@@ -24,7 +24,7 @@ sample_frequency = smaples_number/file_duaration
 
 
 
-def segment(t_before,t_after,sample_frequency,annotations,BI,EMG):
+def segment(t_after,t_before,sample_frequency,annotations,BI,EMG):
     
     #error flags
     err_flag_start=0
@@ -56,7 +56,7 @@ def segment(t_before,t_after,sample_frequency,annotations,BI,EMG):
         
     return segments, err_flag_start, err_flag_end
       
-result, err_flag_start, err_flag_end=segment(0.35,0.05,4000,annotations,BI,EMG)   
+result, err_flag_start, err_flag_end=segment(0.05,0.5,4000,annotations,BI,EMG)   
 
 fig = plt.pyplot.figure()
 ax = fig.add_subplot(111)
