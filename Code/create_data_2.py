@@ -103,7 +103,7 @@ for p in path:
                    
             os.chdir(p+folder+'/')  
             
-            for file in glob.glob('*_edited_triggerMarker_edited.bdf'):
+            for file in glob.glob('*_edited_triggerMarker.bdf'):
                 print(file)
     
                 f = pyedflib.EdfReader(p+folder+'/'+file)
@@ -121,14 +121,16 @@ for p in path:
                 
                 annotations = f.readAnnotations()  
                 
-                file_duaration = f.getFileDuration()
-                samples_number =f.getNSamples()[0]
-                sample_frequency = samples_number/file_duaration
-                      
-                temp1, temp2, err_flag_start, err_flag_end=segment(0.35,0.05,sample_frequency,annotations,BI,EMG)
+                if(annotations[0].size>0):
                 
-                data_swallow=np.concatenate((data_swallow,signal.resample(temp1,no_samples,axis=2)),axis=0)
-                data_non_swallow=np.concatenate((data_non_swallow,signal.resample(temp2,no_samples,axis=2)),axis=0)
+                    file_duaration = f.getFileDuration()
+                    samples_number =f.getNSamples()[0]
+                    sample_frequency = samples_number/file_duaration
+                          
+                    temp1, temp2, err_flag_start, err_flag_end=segment(0.35,0.05,sample_frequency,annotations,BI,EMG)
+                    
+                    data_swallow=np.concatenate((data_swallow,signal.resample(temp1,no_samples,axis=2)),axis=0)
+                    data_non_swallow=np.concatenate((data_non_swallow,signal.resample(temp2,no_samples,axis=2)),axis=0)
             
-np.save('C:/Users/phili/Desktop/Schluckerkennung/Schluckerkennung/Code/data_swallow', data_swallow[1:])
-np.save('C:/Users/phili/Desktop/Schluckerkennung/Schluckerkennung/Code/data_non_swallow', data_non_swallow[1:])
+np.save('F:/SchluckDaten/data/t_before 0,35 t after 0,05/healthy_swallow_800_edited_triggerMarker', data_swallow[1:])
+np.save('F:/SchluckDaten/data/t_before 0,35 t after 0,05/healthy_non_swallow_800_edited_triggerMarker', data_non_swallow[1:])
